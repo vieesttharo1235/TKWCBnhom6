@@ -133,26 +133,6 @@
   padding: 10px 40px;
 }
  
-.body_product .container .show_product{
-  margin: 10px 0; /*tao le*/
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-}
-.body_product .container .show_product .card {
-  flex-basis: 20%;
-  margin: 15px 57px;
-}
-.body_product .container .show_product .card .items{
-  position: relative;
-  display: block;
-  padding: 20px;
-  border-radius: 20px;
-  border: 1px solid rgb(144, 172, 212);
-  background-color: #a9bbd6;
-}
-
-
 .ch p a{
   padding: 5px 30px;
   margin: 0 430px;
