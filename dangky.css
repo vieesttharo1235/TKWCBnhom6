@@ -171,6 +171,15 @@ font-size: 15px;
     background-color: #C0D9FF;
     border: 0px;
 }
+.maxacnhan{
+    background-color: #C0D9FF;
+    position: relative;
+    font-family:'Montserrat'; 
+    font-weight: bold;
+    left: 889px;
+    top:20px;
+    border: 0px;
+}
 .Dangnhap{
     left: 600px;
     position: relative;

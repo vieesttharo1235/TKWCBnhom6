@@ -69,7 +69,7 @@
 .product-content-left-small-img img {
     width: 60%;
     padding: 7px;
-    border: 2px solid black;
+    border: 2px solid #cccccc;
     cursor: pointer;
 }
 .product-content-right {
