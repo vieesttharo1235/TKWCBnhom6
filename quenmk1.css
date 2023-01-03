@@ -141,6 +141,14 @@
     background-color: #C0D9FF;
     border: 0px;
 }
+.sodienthoai .fa-solid {
+    position: relative;
+    top: 50px;
+}
+.matkhau .fa-solid{
+    position: relative;
+    top: 70px;
+}
 .footer{
     display: flex;
     height: 350px;
@@ -149,7 +157,7 @@
     align-items: start;
     justify-content: center;
     padding-top: 20px;
-    gap: 70px;
+    gap: 50px;
     font-size: 14px;
 }
 .dc{

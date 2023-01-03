@@ -181,6 +181,15 @@ font-size: 15px;
     background-color: #C0D9FF;
     border: 0px;
 }
+.matkhau .fa-solid{
+    position: relative;
+    top:30px;
+
+}
+.nhaplaimatkhau .fa-solid{
+    position: relative;
+    top:50px;
+}
 .footer{
     display: flex;
     height: 350px;
@@ -189,7 +198,7 @@ font-size: 15px;
     align-items: start;
     justify-content: center;
     padding-top: 20px;
-    gap: 70px;
+    gap: 50px;
     font-size: 14px;
 }
 .dc{

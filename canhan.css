@@ -117,7 +117,7 @@
     border-radius: 8px;
     color: #FFFFFF;
     padding: 5px 14px 5px 14px;
-    margin-left: 700px;
+    margin-left: 750px;
 }
 .footer{
     display: flex;
@@ -127,7 +127,7 @@
     align-items: start;
     justify-content: center;
     padding-top: 20px;
-    gap: 70px;
+    gap: 50px;
     font-size: 14px;
 }
 .dc{

@@ -45,7 +45,7 @@
 }
 .than1{
     width: 200px;
-    height: 580px;
+    height: 600px;
     background: #EBEBEB;
     font-weight: bold;
     padding-left: 20px;
@@ -85,7 +85,7 @@
     align-items: start;
     justify-content: center;
     padding-top: 20px;
-    gap: 70px;
+    gap: 50px;
     font-size: 14px;
 }
 .dc{
