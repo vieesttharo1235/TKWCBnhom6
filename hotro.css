@@ -78,15 +78,13 @@
     cursor: pointer;
     font-size: 10px;
     
-  }
-  
+  } 
   .wrap{
     width: 30%;
     top: 42%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
-
 .bottom{
   margin: 10px 130px;
   padding: 10px 60px;
@@ -100,15 +98,11 @@
     /* box-sizing: border-box; */
     padding: 0 20px 0 50px;
     border-radius: 0 5px 5px 0;
-
 }
-
 .center1{
   text-align: center;
   font-weight: bold;
   margin: 0px;
-  
-  
 }
 .dm p a{
   display: flex;
@@ -122,8 +116,7 @@
   width: 190px;
   height: 20px;
   justify-content: center;
-  border-radius: 10px;
-  
+  border-radius: 10px; 
 }
 .dm1{
   display: flex;
@@ -132,16 +125,13 @@
   gap: 0px;
   padding: 10px 40px;
 }
- 
 .ch p a{
   padding: 5px 30px;
   margin: 0 430px;
-  font-size: 16px;
-  
+  font-size: 16px; 
   display:inline-block;
   color: rgb(0, 0, 0);  
 }
-
 .email p a{
   display:inline-block;
   border: 1px;
@@ -154,8 +144,6 @@
   text-decoration: none;
   width: 190px;
 }
-
-
 .footer{
   display: flex;
   height: 350px;
